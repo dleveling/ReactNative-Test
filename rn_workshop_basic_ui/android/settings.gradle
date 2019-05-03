@@ -1,0 +1,3 @@
+rootProject.name = 'rn_workshop_basic_ui'
+
+include ':app'
