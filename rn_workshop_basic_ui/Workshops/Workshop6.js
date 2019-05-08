@@ -29,12 +29,19 @@ export default class Workshop6 extends Component {
       // </View>
       
       //MARK: - Stretch
-      <View style = {{flex: 1, flexDirection: 'column', justifyContent: 'center', alignItems: 'stretch'}}>
-          <View style = {{width: 150, height: 150, backgroundColor: 'powderblue'}}></View>
-          <View style = {{height: 150, backgroundColor: 'skyblue'}}></View>
-          <View style = {{height: 150, backgroundColor: 'steelblue'}}></View>
+      // <View style = {{flex: 1, flexDirection: 'column', justifyContent: 'center', alignItems: 'stretch'}}>
+      //     <View style = {{width: 150, height: 150, backgroundColor: 'powderblue'}}></View>
+      //     <View style = {{height: 150, backgroundColor: 'skyblue'}}></View>
+      //     <View style = {{height: 150, backgroundColor: 'steelblue'}}></View>
+      // </View>
+
+      <View style = {{flex: 1, flexDirection: 'column', backgroundColor: "#FFFFFF", justifyContent: 'space-evenly', alignItems: 'stretch' }} >
+          <View style = {{height: 50, backgroundColor: 'powderblue'}}></View>
+          <View style = {{height: 50, backgroundColor: 'skyblue'}}></View>
+          <View style = {{height: 50, backgroundColor: 'steelblue'}}></View>
       </View>
 
+      
     );
   }
 }
