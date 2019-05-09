@@ -35,7 +35,7 @@ class MyText extends Component {
   render(){
     return(
       <Text style={{ textAlign: 'center' , color: "#FFFFFF"}}>
-      {this.props.message}
+        {this.props.message}
       </Text>
     );
   }

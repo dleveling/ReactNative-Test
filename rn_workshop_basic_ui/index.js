@@ -20,6 +20,11 @@ import {name as appName} from './app.json';
 // import App from './Workshops/Workshop13'  //Image Download from internet with URI
 // import App from './Workshops/Workshop14'  //FlatList & FlatListWithSections
 // import App from './Workshops/Workshop15'  //FlatList or ListView with Design
-import App from './Workshops/Workshop16'  //FlatLst or ListView with Design 2 Make Styles Sheet
+// import App from './Workshops/Workshop16'  //FlatList or ListView with Design 2 Make Styles Sheet
+// import App from './Workshops/Workshop17'  //Animated Page Indicator
+// import App from './Workshops/Workshop18'  //Animated Button
+// import App from './Workshops/Workshop19'  //TodoList Application
+// import App from './Workshops/Workshop20'  //React-Native-Maps
+import App from './Workshops/Workshop21'  //Login Page
 
 AppRegistry.registerComponent(appName, () => App);
