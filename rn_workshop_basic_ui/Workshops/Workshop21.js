@@ -14,7 +14,6 @@ class Workshop21 extends Component {
                         registerFunc={ ()=> this.registerFunc()}
                         forgotFunc={ ()=> this.forgotFunc()}/>
         </ImageBackground>
-
     );
   }
 

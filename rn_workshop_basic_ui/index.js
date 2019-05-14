@@ -25,6 +25,10 @@ import {name as appName} from './app.json';
 // import App from './Workshops/Workshop18'  //Animated Button
 // import App from './Workshops/Workshop19'  //TodoList Application
 // import App from './Workshops/Workshop20'  //React-Native-Maps
-import App from './Workshops/Workshop21'  //Login Page
+// import App from './Workshops/Workshop21'  //Login Page
+// import App from './Workshops/Workshop22'  //Animated Color With Interpolate
+// import App from './Workshops/Workshop23'  //Animated Box 
+// import App from './Workshops/Workshop24'  //OTP Validate [JUST UI]
+import App from './Workshops/Workshop25'  //Animated Deck LIKE Tinder
 
 AppRegistry.registerComponent(appName, () => App);
